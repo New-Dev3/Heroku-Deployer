@@ -1,7 +1,7 @@
 {
-  "name": "HerokuBannedDeployer",
-  "description": "With this you can deploy repos that are banned/blacklisted by heroku",
-  "keywords": [
+    "name": "HΞЯФҜЦ DΞPLФУΞЯ",
+    "description": "With this you can deploy repos that are banned/blacklisted by heroku",
+    "keywords": [
     "telegram",
     "open",
     "source",
@@ -9,7 +9,9 @@
     "purpose",
     "remote",
     "deployer"
-  ],
+    ],
+    "website": "https://github.com/New-Dev3/Heroku-Deployer",
+    "repository": "https://github.com/New-Dev3/Heroku-Deployer",
   "env": {
     "OTHER_INSTALLS": {
       "description": "If you need install packages for running your app(Python is pre-installed).[Space in between each package]",
